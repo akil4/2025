@@ -105,7 +105,7 @@ The goal of Tier 2 is to gain substantial hands-on programming practice. You hav
   
 | Courses                                                                                                                                                                                                          | Status | Evidence |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
-| [Full Stack Open](https://fullstackopen.com/en/)                                                                                                                                                                 |        |          |
+| [Full Stack Open](https://fullstackopen.com/en/)                                                                                                                                                                 |  Part0 | https://github.com/akil4/fullstackopen/tree/main/part0 |
 | [MongoDB Node.js Developer Path ](https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%2C%5B%22certifiction%22%2C%22Learning%20Path%22%5D%5D) |        |          |
 
 | Reading                           | Status | Evidence |
